@@ -7,11 +7,11 @@
 
 h1{
     
-    font-size: 54px;
+    font-size: 3em;
 }
 
 h2{
-    font-size:36px;
+    font-size:2em;
 }
 
 ul{
@@ -22,7 +22,7 @@ ul{
 li{
     text-align: center;
     font-family: "Times New Roman", Times, serif;
-    font-size: 32px
+    font-size: 1em;
 }
 
 a{
@@ -31,7 +31,7 @@ a{
 }
 
 p{
-    font-size: 24px;
+    font-size: 1em;
 }
 
 img{
