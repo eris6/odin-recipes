@@ -19,10 +19,6 @@ ul{
     list-style-type: none;
 }
 
-li{
-    font-family: "Times New Roman", Times, serif;
-    font-size: 1em;
-}
 
 a{
     color: 1em;
@@ -40,4 +36,19 @@ img{
 
 .hometext{
     text-align: center;
+}
+
+button{
+    background-color: #C4A484;
+    margin:40px;
+    padding: 40px;
+    border-radius: 20px;
+    border-color: #C4A484;
+    font-size:25px;
+    font-family:Verdana;
+    color: white;
+}
+
+button:hover{
+    background-color: #EADDCA;
 }
